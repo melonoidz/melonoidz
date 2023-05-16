@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 -->
 
 # Kentaro WATANABE😄 
-- JAPAN MENSA
-## ALL Tech Stacks
+- Software Engineer(2020~)
+- JAPAN MENSA(2019~)
+- 
+# ALL Tech Stacks
 <p>
 <img alt="C++" src="https://img.shields.io/badge/-C++-00599C.svg?logo=cplusplus&style=plastic&logoColor=white" />
 <img alt="C#" src="https://img.shields.io/badge/-Csharp-239120?style=plastic&logo=CSharp&logoColor=white" />
@@ -41,10 +43,14 @@ Here are some ideas to get you started:
 <img alt="Atcoder" src="https://img.shields.io/badge/Atcoder-1146-brightgreen.svg" />
 </p>
 
-## Certifications
+# Certifications
 - TOEIC 730 (2018)
 - 統計検定 2 級 (2018/09)
 - 基本情報技術者試験 (2021/09)
 - 応用情報技術者試験 (2022/06)
 - [Corsera "DeepLearning AI" (2022/09)](https://www.coursera.org/account/accomplishments/specialization/certificate/9RRKSNZYMJXM)
 - [AWS Certified Cloud Practitioner(2023/05)](https://www.credly.com/badges/49f431f4-794b-4125-91ae-09303474fa68/linked_in?t=rua8bj)
+
+# Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=melonoidz&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=melonoidz)](https://github.com/ryo-ma/github-profile-trophy)
