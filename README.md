@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Kentaro WATANABE😄 
+# Kentaro WATANABE :duck:
 - Software Engineer(2020~)
 - JAPAN MENSA(2019~)
 
@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 <img alt="Azure DevOps" src="https://img.shields.io/badge/-Azure%20DevOps-0078D7.svg?logo=azure-devops&style=plastic&logoColor=white" />
 <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D24939.svg?logo=jenkins&style=plastic&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=plastic&logo=docker&logoColor=white" />
+<img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon%20AWS-232F3E.svg?logo=amazon-aws&logoColor=white" />
 <img alt="Qt" src="https://img.shields.io/badge/-Qt-41CD52.svg?&logo=qt&style=plastic&logoColor=white" />
 <img alt="Three.js" src="https://img.shields.io/badge/-Three.js-000000?style=plastic&logo=Three.js&logoColor=white" />
 <img alt="Streamlit" src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=plastic&logo=Streamlit&logoColor=white" />
@@ -53,8 +54,7 @@ Here are some ideas to get you started:
 
 # Stats
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melonoidz&layout=compact&count_private=false&show_icons=true&theme=tokyonight" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=melonoidz&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=melonoidz&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=melonoidz&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=melonoidz&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
