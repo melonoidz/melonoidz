@@ -52,6 +52,6 @@ Here are some ideas to get you started:
 - [AWS Certified Cloud Practitioner(2023/05)](https://www.credly.com/badges/49f431f4-794b-4125-91ae-09303474fa68/linked_in?t=rua8bj)
 
 # Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melonoidz)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melonoidz&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=melonoidz&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=melonoidz)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=melonoidz&count_private=true&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
