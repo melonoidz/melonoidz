@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 # Stats
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melonoidz&layout=compact&count_private=true&show_icons=true&theme=tokyonight&hide=javascript,html" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melonoidz&layout=compact&count_private=false&show_icons=true&theme=tokyonight" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=melonoidz&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
 </p>
 
